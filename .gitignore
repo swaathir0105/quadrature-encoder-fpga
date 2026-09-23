@@ -1,0 +1,21 @@
+# Vivado-generated (regenerable)
+.Xil/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.tmp/
+*.jou
+*.log
+*.str
+*.xsa
+*.bit
+
+# Simulation outputs (regenerable from sim/)
+*.vcd
+*.fst
+*.out
+*.vvp
+sim_*
